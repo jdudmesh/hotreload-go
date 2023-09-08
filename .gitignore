@@ -1,0 +1,5 @@
+.vscode
+.webpack-go
+node_modules
+dist
+__debug_bin*
